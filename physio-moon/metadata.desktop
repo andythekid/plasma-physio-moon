@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Activation-inhibition lunar cycle 
+Name[ru]=Лунный цикл активации-торможения
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+Icon=/contents/images/luna.png
+
+X-KDE-PluginInfo-Author=Andrey Volkov
+X-KDE-PluginInfo-Email=evil.bobby@gmail.com
+X-KDE-PluginInfo-Name=physio-moon
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/andythekid/
+X-KDE-PluginInfo-Category=Environment and Weather
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
